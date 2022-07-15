@@ -1,1 +1,0 @@
-print("This is the Montecarlo module, which includes the classes Die, Game, and analyzer")
